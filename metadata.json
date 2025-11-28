@@ -1,0 +1,7 @@
+{
+  "name": "Speak XYZ - Meeting Intelligence",
+  "description": "Professional meeting analysis engine providing speaker diarization, summaries, and sentiment dashboards.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
